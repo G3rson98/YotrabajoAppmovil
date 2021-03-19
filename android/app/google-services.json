@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1036877858842",
+    "project_id": "yotrabajo2-24311",
+    "storage_bucket": "yotrabajo2-24311.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1036877858842:android:5ecec0c22d1959df26a9a3",
+        "android_client_info": {
+          "package_name": "com.example.yotrabajo2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1036877858842-oa40818aqas480a6m2o3vkvnhp4k683f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.yotrabajo2",
+            "certificate_hash": "2110b0646baefb101cc70530821ea1645e887e9a"
+          }
+        },
+        {
+          "client_id": "1036877858842-sr90khg728n3i47me4n8nrfurvkqb7iv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCoZ7wPJvEf94llhV1dcq0JSRIGaUXlzLA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1036877858842-sr90khg728n3i47me4n8nrfurvkqb7iv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
